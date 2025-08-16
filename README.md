@@ -1,4 +1,5 @@
-## Hi there 👋
+## What's up!
+My name is David and I'm an Electrical Engineer based in California. I love working on projects that involve embedded systems, PCB design, and circuit design!
 
 <!--
 **davidBalderramaS/davidBalderramaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
