@@ -1,8 +1,8 @@
 # What's up!
 My name is David and I'm an Electrical Engineer based in California. I love working on projects that involve embedded systems, PCB design, and circuit design!
-- ⚡Passionate about anything involving defense tech (Drones, Autonomous vehicles, defense weapons)
-- 🧩 Current projects: Custom BLDC ESC (STM32-based, 6-layer PCB)  
-- 🚀 Long-term project goal: fully custom built drone (ESC, Flight Controller, Power Distribution, Enclosure, and wireless controller)  
+- ⚡ Passionate about anything involving defense tech (Drones, Autonomous vehicles, defense weapons)
+- 🧩 Current projects: Custom ESC for BLDC motor (STM32-based, 6-layer PCB)  
+- 🚀 Long-term project goal: Fully custom built drone (ESC, Flight Controller, Power Distribution, Enclosure, and wireless controller)  
 
 ## 📫 Connect
 - Email: davidbsolorio@gmail.com
